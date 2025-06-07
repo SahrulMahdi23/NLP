@@ -33,7 +33,7 @@ kata_kunci_negatif = [
     "tidak cocok", "jangan beli", "rugi", "mahal", "palsu", "iritasi", "lengket",
     "susah", "pecah", "rusak", "bocor", "kurang", "gak", "enggak", "nggak",
     "bukan", "tdk", "ga cocok", "ga suka", "gk", "tdk cocok", "mengecewakan",
-    "berantakan", "lambat","bikin break out"
+    "berantakan", "lambat","bikin break out""sangat wangi""tahan lama"
 ]
 label_sentimen_berdasarkan_aturan = []
 for ulasan in df['Review']:
