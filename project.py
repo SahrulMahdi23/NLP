@@ -25,7 +25,7 @@ kata_kunci_positif = [
     "keren", "enak", "cepat", "bonus", "ori", "original", "asli", "ampuh",
     "efektif", "lembut", "halus", "tidak mengecewakan", "sesuai", "oke",
     "ok", "baik", "thank you", "thanks", "terima kasih", "ga nyesel", "ga nyesel",
-    "recommended", "cepet", "bgt", "banget" 
+    "recommended", "cepet", "bgt", "banget" "sangat wangi""tahan lama"
 # 'bgt'/'banget' sering muncul dengan kata positif
 ]
 kata_kunci_negatif = [
@@ -33,7 +33,7 @@ kata_kunci_negatif = [
     "tidak cocok", "jangan beli", "rugi", "mahal", "palsu", "iritasi", "lengket",
     "susah", "pecah", "rusak", "bocor", "kurang", "gak", "enggak", "nggak",
     "bukan", "tdk", "ga cocok", "ga suka", "gk", "tdk cocok", "mengecewakan",
-    "berantakan", "lambat","bikin break out""sangat wangi""tahan lama"
+    "berantakan", "lambat","bikin break out"
 ]
 label_sentimen_berdasarkan_aturan = []
 for ulasan in df['Review']:
